@@ -8,8 +8,8 @@
 ### 🛠️ Tech Stack
 - **Frontend**: React.js, HTML, CSS, JavaScript  
 - **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **Programming Language**: Python  
+- **Database**: MongoDB, SQL
+- **Programming Language**: Python, Java, C
 - **Libraries**: NumPy, Pandas, Matplotlib  
 - **Tools**: Git, GitHub, Postman, VS Code
 
