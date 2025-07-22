@@ -1,15 +1,17 @@
 # Hi 👋, I'm Mohit Bohra
 
 🎓 B.Tech Student | Specialization in Information Technology  
-💻 MERN Stack Developer  
+💻 MERN Stack Developer | Python Enthusiast  
 
 ---
 
 ### 🛠️ Tech Stack
-- Frontend: React.js, HTML, CSS, JavaScript
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Tools: Git, GitHub, Postman, VS Code
+- **Frontend**: React.js, HTML, CSS, JavaScript  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Programming Language**: Python  
+- **Libraries**: NumPy, Pandas, Matplotlib  
+- **Tools**: Git, GitHub, Postman, VS Code
 
 ---
 
