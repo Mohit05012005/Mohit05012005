@@ -29,6 +29,9 @@
 ---
 
 ### 🔗 Projects
+-  Created Chat-Bot using Different type of LLMS (ollama,open ai,kimi)
+-  Pet Connect Website based on MERN Stack technology
+-  HealthCare Website for online appointment using HTML,CSS,JS,NODEJS,EXPRESS,MONGODB
 - 🔐 User Authentication and Authorization using MERN Stack
 
 ---
